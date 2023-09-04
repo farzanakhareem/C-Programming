@@ -1,3 +1,6 @@
+//Given a string of numbers, write a program to find the Lucky Winner in the QBurst Lucky Draw contest. The person is lucky if he gets the lucky number, i.e., if the sum of the last two digits of the number is 3 or 8, print “Lucky Draw Winner”, else print “not a Lucky Draw Winner”.
+
+
 #include <stdio.h>
 #include <string.h>
 
